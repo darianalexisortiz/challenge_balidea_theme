@@ -1,0 +1,19 @@
+{
+    "name": "drupal/challenge_balidea_theme",
+    "description": "Theme for the challenge for Balidea",
+    "type": "drupal-theme",
+    "license": "GPL-2.0-or-later",
+    "support": {
+        "issues": "https://github.com/darianalexisortiz/challenge_balidea_theme/issues",
+        "source": "https://github.com/darianalexisortiz/challenge_balidea_theme"
+    },
+    "authors": [
+        {
+            "name": "Darian Alexis Ortiz",
+            "email": "dalexiso@gmail.com"
+        }
+    ],
+    "require": {
+        "drupal/classy": "^1.0"
+    }
+}

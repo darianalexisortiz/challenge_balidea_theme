@@ -1,0 +1,7 @@
+global:
+  version: 1.0
+  js:
+    js/challenge-balidea-theme.js: {}
+  css:
+    theme:
+      css/theme/style.css: {}
